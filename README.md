@@ -321,38 +321,38 @@ FID和IS都是基于特征提取，也就是依赖于某些特征的出现或者
 ## BIG DATA(comging soon)
 <table>
     <tr>
-      <th><img width="50px" src="pic/bigdata/hadoop.jpg"></th>
-      <th><img width="50px" src="pic/bigdata/flume.png"></th>
-      <th><img width="50px" src="pic/bigdata/zookeeper.gif"></th>
-      <th><img width="50px" src="pic/bigdata/hive.jpg"></th>
-      <th><img width="50px" src="pic/bigdata/kafka.png"></th>
-      <th><img width="50px" src="pic/bigdata/flink.svg"></th>
-      <th><img width="50px" src="pic/bigdata/spark.png"></th>
+      <th><img width="50px" src="pic/bigdata/hadoop.png"></th>
+      <th><img width="50px" src="pic/bigdata/hive.png"></th>
       <th><img width="50px" src="pic/bigdata/hbase.png"></th>
+      <th><img width="50px" src="pic/bigdata/spark.png"></th>
+      <th><img width="50px" src="pic/bigdata/flink.png"></th>
+      <th><img width="50px" src="pic/bigdata/elasticsearch.png"></th>
+      <th><img width="50px" src="pic/bigdata/druid.png"></th>
     </tr>
     <tr>
       <td align="center"><a href="">Hadoop</a></td>
-      <td align="center"><a href="">Flume</a></td>
-      <td align="center"><a href="">Zookeeper</a></td>
       <td align="center"><a href="">Hive</a></td>
-      <td align="center"><a href="">Kafka</a></td>
-      <td align="center"><a href="">Flink</a></td>
-      <td align="center"><a href="">Spark</a></td>
       <td align="center"><a href="">Hbase</a></td>
+      <td align="center"><a href="">Spark</a></td>
+      <td align="center"><a href="">Flink</a></td>
+      <td align="center"><a href="">Elasticsearch</a></td>
+      <td align="center"><a href="">Druid</a></td>
     </tr>
     <tr>
-     <th><img width="50px" src="pic/bigdata/elasticsearch.png"></th>
+      <th><img width="50px" src="pic/bigdata/zookeeper.png"></th>
+      <th><img width="50px" src="pic/bigdata/flume.png"></th>
+      <th><img width="50px" src="pic/bigdata/kafka.png"></th>
       <th><img width="50px" src="pic/bigdata/dolphinscheduler.png"></th>
       <th><img width="50px" src="pic/bigdata/sqoop.png"></th>
-      <th><img width="50px" src="pic/bigdata/druid.png"></th>
       <th><img width="50px" src="pic/bigdata/kylin.png"></th>
       <th><img width="50px" src="pic/bigdata/superset.png"></th>
     </tr>
-    <tr>      
-     <td align="center"><a href="">Elasticsearch</a></td>
+    <tr>    
+      <td align="center"><a href="">Zookeeper</a></td>  
+      <td align="center"><a href="">Flume</a></td>
+      <td align="center"><a href="">Kafka</a></td>
       <td align="center"><a href="">Dolphinscheduler</a></td>
       <td align="center"><a href="">Sqoop</a></td>
-      <td align="center"><a href="">Druid</a></td>
       <td align="center"><a href="">Kylin</a></td>
       <td align="center"><a href="">Superset</a></td>
     </tr>
